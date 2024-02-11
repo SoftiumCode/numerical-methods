@@ -1,0 +1,17 @@
+C:\project\numerical-methods\bin\Debug\net7.0\numerical-methods.exe
+C:\project\numerical-methods\bin\Debug\net7.0\numerical-methods.deps.json
+C:\project\numerical-methods\bin\Debug\net7.0\numerical-methods.runtimeconfig.json
+C:\project\numerical-methods\bin\Debug\net7.0\numerical-methods.dll
+C:\project\numerical-methods\bin\Debug\net7.0\numerical-methods.pdb
+C:\project\numerical-methods\bin\Debug\net7.0\NCalc.dll
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.csproj.AssemblyReference.cache
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.AssemblyInfoInputs.cache
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.AssemblyInfo.cs
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.csproj.CoreCompileInputs.cache
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.csproj.CopyComplete
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.dll
+C:\project\numerical-methods\obj\Debug\net7.0\refint\numerical-methods.dll
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.pdb
+C:\project\numerical-methods\obj\Debug\net7.0\numerical-methods.genruntimeconfig.cache
+C:\project\numerical-methods\obj\Debug\net7.0\ref\numerical-methods.dll
